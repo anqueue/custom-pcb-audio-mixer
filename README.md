@@ -1,4 +1,4 @@
-# Auro Deej Slider
+# Custom PCB Audio Mixer
 
 Deej is an open source project that allows an Arduino to control the volume of applications (https://github.com/omriharel/deej). I wanted to make my own mixer for this, however I don't have a 3d printer. Instead I opted for sandwiching two PCBs to house the electronics and connect the sliders to the Arduino.
 
